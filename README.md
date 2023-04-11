@@ -92,11 +92,11 @@ For more, please see my [GitHub repo list](https://github.com/SimpleLuke?tab=rep
 
 Completed the following certificate programs:
 
-- [Learning to Learn [Efficient Learning]: Zero to Mastery Blueprint](certificate/certificate-of-completion-for-learning-to-learn-efficient-learning-zero-to-mastery-blueprint.pdf)
-- [Complete Web Developer in 2023: Zero to Mastery](certificate/certificate-of-completion-for-complete-web-developer-in-2020-zero-to-mastery.pdf)
-- [The Complete Junior to Senior Web Developer Roadmap (2023)](certificate/certificate-of-completion-for-the-complete-junior-to-senior-web-developer-roadmap-2020.pdf)
-- [Master the Coding Interview: Data Structures + Algorithms](certificate/certificate-of-completion-for-master-the-coding-interview-data-structures-algorithms.pdf)
-- [ChatGPT & Large Language Models (LLMs): A Practical Guide](certificate/chatgpt-large-language-models-llms-a-practical-guide.pdf)
+- Learning to Learn [Efficient Learning]: Zero to Mastery Blueprint[certificate](certificate/certificate-of-completion-for-learning-to-learn-efficient-learning-zero-to-mastery-blueprint.pdf)
+- Complete Web Developer in 2023: Zero to Mastery[certificate](certificate/certificate-of-completion-for-complete-web-developer-in-2020-zero-to-mastery.pdf)
+- The Complete Junior to Senior Web Developer Roadmap (2023)[certificate](certificate/certificate-of-completion-for-the-complete-junior-to-senior-web-developer-roadmap-2020.pdf)
+- Master the Coding Interview: Data Structures + Algorithms[certificate](certificate/certificate-of-completion-for-master-the-coding-interview-data-structures-algorithms.pdf)
+- ChatGPT & Large Language Models (LLMs): A Practical Guide[certificate](certificate/chatgpt-large-language-models-llms-a-practical-guide.pdf)
 
 #### [The Hong Kong Academy For Performing Arts](https://www.hkapa.edu/) September 2012 to June 2015
 
