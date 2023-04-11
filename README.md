@@ -1,10 +1,13 @@
-
+<!DOCTYPE html>
 
 <h1 align="center"> Hi I'm <a href="https://lukelai.tech/">Luke Lai</a> (lukelai.dev@gmail.com)</h1>
 
 
 <div align="center">
-[<img src="./image/github.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/SimpleLuke)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./image/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/luke-lai-309a3522b/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./image/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/SimpleLuke)
+
+ 
+ [<img src="./image/github.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/SimpleLuke)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./image/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/luke-lai-309a3522b/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./image/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/SimpleLuke/)
+
 
 #
  
