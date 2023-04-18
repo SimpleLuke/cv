@@ -24,7 +24,7 @@ I am looking to join a company committed to positively impacting society, whethe
 
 ## <a name="tech-stack">Tech stack 🤖</a>
 
-- **Front-end:** JavaScript (React), HTML, CSS (Bootstrap, Tailwind, Sass)
+- **Front-end:** JavaScript/TypeScript (React), HTML, CSS (Bootstrap, Tailwind, Sass)
 - **Back-end:** JavaScript (Node.js, Express), Ruby (Sinatra, Active Record)
 - **Database:** MongoDB, SQL (PostgreSQL), Firebase
 - **Testing frameworks:** Jest, Cypress, RSpec, Capybara
