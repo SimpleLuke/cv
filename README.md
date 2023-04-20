@@ -24,8 +24,8 @@ I am looking to join a company committed to positively impacting society, whethe
 
 ## <a name="tech-stack">Tech stack 🤖</a>
 
-- **Front-end:** JavaScript/TypeScript (React), HTML, CSS (Bootstrap, Tailwind, Sass)
-- **Back-end:** JavaScript (Node.js, Express), Ruby (Sinatra, Active Record)
+- **Front-end:** JavaScript/TypeScript (React), HTML, CSS (Bootstrap, Tailwind, Sass), Three.js(WebGL)
+- **Back-end:** JavaScript (Node.js, Express), Ruby (Sinatra, Active Record), REST API, GraphQL
 - **Database:** MongoDB, SQL (PostgreSQL), Firebase
 - **Testing frameworks:** Jest, Cypress, RSpec, Capybara
 - **Deployment:** Heroku, Netlify, Docker
@@ -126,7 +126,7 @@ Completed the following certificate programs:
 
 ## <a name="interests">Outside of Work</a>
 
-- 💻 **Getting involved in the tech scene**: Writing [tech blogs](https://medium.com/@lukelai.dev) and attending events in a variety of tech groups and meetups, eg. [Codebar](https://codebar.io/)
+- 💻 **Getting involved in the tech scene**: Makers Academy Alumni Meetup Organiser and attending events in a variety of tech groups and meetups, eg. [Codebar](https://codebar.io/)
 - 🧘 **Yoga:** Certified yoga teacher with a passion for promoting physical and mental well-being
 - 📚 **Reading:** Enjoys expanding knowledge on software development by reading books such as [Eloquent JavaScript](https://eloquentjavascript.net/), [The Road to React](https://www.amazon.co.uk/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX), [Refactoring UI](https://www.refactoringui.com/)
 - 🧗‍♂️ **Bouldering:** Active bouldering enthusiast who climbs at least twice a week to stay disciplined and commitment
