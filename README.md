@@ -46,30 +46,30 @@ For more, please see my [GitHub repo list](https://github.com/SimpleLuke?tab=rep
 
 ## <a name="skills">My Unique Value Proposition 👏</a>
 
-#### Effective Communication and Collaborative Teamwork
+#### 💬 Effective Communication and Collaborative Teamwork
 
 - Years of experience in the customer service industry, working closely with diverse teams and clients at [Hong Kong Academy for Performing Arts](https://hkapa.edu) and [Cathay Pacific](https://www.cathaypacific.com/cx/en_US.html)
 - Ability to understand and fulfil customer requirements effectively and efficiently, utilising strong written and verbal communication skills
 - Proven track record of collaborating with team members to build three projects with agile workflows in Makers Academy
 
-#### Creative Problem Solving and Analytical Thinking
+#### 🧠 Creative Problem Solving and Analytical Thinking
 
 - Highly analytical thinker with a talent for innovative problem-solving, demonstrated through various projects and experiences. For example, in Makers' team collaboration, I always pick up tickets for resolving merge conflicts and fixing bugs.
 - Ability to produce plans and suggestions for potential clients and improve processes through creative solutions following the Agile principles. In previous projects, I ensured the team understood the user stories and built the MVP based on client requirements.
 
-#### Strong Time Management and Project Management Skills
+#### ⏰ Strong Time Management and Project Management Skills
 
 - Ability to effectively manage time and resources to meet tight deadlines, demonstrated through delivering three minimum viable products within two weeks time frames.
 - Proven project management skills from planning and organising tasks to tracking progress and delivering results using Trello, Excalidraw etc.
 - Ability to adapt to changing priorities, such as choosing the essential features for development sprints.
 
-#### Continuous Learning and Adaptability
+#### 📖 Continuous Learning and Adaptability
 
 - Completed an intensive 3-month coding bootcamp at Makers, demonstrating a growth mindset and a willingness to learn and adapt
 - Continuously seeking to expand my skills and knowledge in the rapidly evolving software development industry, as I am learning TypeScript and Next.js.
 - Proven ability to adapt to new environments and work effectively with diverse teams and clients. Good reputations and feedback from daily pair-programming and regular code reviews in Makers Academy prove it.
 
-#### Emotional Intelligence and Empathy
+#### 🙏 Emotional Intelligence and Empathy
 
 - Ability to understand and fulfil customer requirements effectively and efficiently. From years of experience in customer service, I dealt with different clients' problems in person, demonstrating empathy and emotional intelligence.
 - Led yoga sessions for professional software developers in [Makers](https://makers.tech/).
