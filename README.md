@@ -14,11 +14,11 @@
 
 ## <a name="about_me">About me 🙋</a>
 
-As a proactive, enthusiastic, and resilient **Full Stack Software Developer** with expertise in React, Node.js, and MongoDB, I am passionate about building innovative and user-friendly web applications. You can find me bouldering, reading up on the latest tech trends, or learning a new language when I'm not coding.
+As a proactive, enthusiastic, and resilient **Full Stack Software Developer** with expertise in React, Node.js, and MongoDB, I am passionate about building innovative and user-friendly applications. You can find me bouldering, reading up on the latest tech trends, or learning a new language when I'm not coding.
 
 As a former professional [theatre actor](https://youtu.be/cwZIPJxuqoM) (you will find me with a bald head in 0:20), I honed my skills in logical thinking and creative problem-solving, which has been invaluable in my journey to becoming a software developer.
 
-I am fascinated by the potential of software technologies like artificial intelligence and blockchain to revolutionize industries like healthcare and finance. I am excited to be a part of this rapidly evolving industry.
+As a professional theatre actor, I often felt limited in my ability to make a tangible impact on the world. However, through software development, I have found a way to channel my creativity and problem-solving skills towards creating valuable tools that can positively impact people's lives. It's amazing how with just my brain and a computer, I can turn an idea into a reality. I am excited to be a part of the revolution in technology, and I look forward to contributing my skills to develop solutions that address real-world problems.
 
 I am looking to join a company committed to positively impacting society, whether through sustainable business practices or social responsibility initiatives. By working with like-minded individuals, I can contribute to building a happy and friendly community inside and outside the workplace.
 
@@ -50,37 +50,35 @@ For more, please see my [GitHub repo list](https://github.com/SimpleLuke?tab=rep
 
 - Years of experience in the customer service industry, working closely with diverse teams and clients at [Hong Kong Academy for Performing Arts](https://hkapa.edu) and [Cathay Pacific](https://www.cathaypacific.com/cx/en_US.html)
 - Ability to understand and fulfil customer requirements effectively and efficiently, utilising strong written and verbal communication skills
-- Proven track record of collaborating with team members to achieve shared goals and deliver high-quality results
+- Proven track record of collaborating with team members to build three projects with agile workflows in Makers Academy
 
 #### Creative Problem Solving and Analytical Thinking
 
-- Highly analytical thinker with a talent for innovative problem-solving, demonstrated through various projects and experiences
-- Ability to produce plans and suggestions for potential clients and improve processes through creative solutions
-- Continuously seeking to improve skills and knowledge to stay at the forefront of the rapidly evolving software development industry
+- Highly analytical thinker with a talent for innovative problem-solving, demonstrated through various projects and experiences. For example, in Makers' team collaboration, I always pick up tickets for resolving merge conflicts and fixing bugs.
+- Ability to produce plans and suggestions for potential clients and improve processes through creative solutions following the Agile principles. In previous projects, I ensured the team understood the user stories and built the MVP based on client requirements.
 
 #### Strong Time Management and Project Management Skills
 
-- Ability to effectively manage time and resources to meet tight deadlines, demonstrated through the development and delivery of multiple minimum viable products within strict time frames
-- Proven project management skills, from planning and organising tasks to tracking progress and delivering results
-- Ability to adapt to changing priorities and work collaboratively with team members to achieve shared goals
+- Ability to effectively manage time and resources to meet tight deadlines, demonstrated through delivering three minimum viable products within two weeks time frames.
+- Proven project management skills from planning and organising tasks to tracking progress and delivering results using Trello, Excalidraw etc.
+- Ability to adapt to changing priorities, such as choosing the essential features for development sprints.
 
 #### Continuous Learning and Adaptability
 
 - Completed an intensive 3-month coding bootcamp at Makers, demonstrating a growth mindset and a willingness to learn and adapt
-- Continuously seeking to expand skills and knowledge in the rapidly evolving software development industry to stay up-to-date with the latest trends and technologies
-- Proven ability to adapt to new environments and work effectively with diverse teams and clients. Developed three minimum viable products within two weeks time frame for each project. Projects involve multiple technologies such as Ruby, Sinatra, Active Record, React, Express, NodeJS, MongoDB, PostgreSQL etc.
+- Continuously seeking to expand my skills and knowledge in the rapidly evolving software development industry, as I am learning TypeScript and Next.js.
+- Proven ability to adapt to new environments and work effectively with diverse teams and clients. Good reputations and feedback from daily pair-programming and regular code reviews in Makers Academy prove it.
 
 #### Emotional Intelligence and Empathy
 
-- Ability to understand and fulfil customer requirements effectively and efficiently, demonstrating empathy and emotional intelligence
-- Collaborated with diverse teams and clients, showing respect and appreciation for different perspectives and backgrounds
+- Ability to understand and fulfil customer requirements effectively and efficiently. From years of experience in customer service, I dealt with different clients' problems in person, demonstrating empathy and emotional intelligence.
 - Led yoga sessions for professional software developers in [Makers](https://makers.tech/).
 
 ## <a name="education">Education and Credentials 📖</a>
 
 #### [Makers Academy](https://makers.tech/) January to April 2023
 
-- Completed an intensive 3-month full-time software development course focused on building strong foundational skills in:
+- Completed an intensive 3-month full-time software development bootcamp focused on building strong foundational skills in:
   - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, and SOLID principles
   - Agile principles, pair programming, stand-ups, retrospectives, and sprint planning
   - Web frameworks, version control, and CI/CD to create full-stack web applications
