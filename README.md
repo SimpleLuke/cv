@@ -14,13 +14,13 @@
 
 ## <a name="about_me">About me 🙋</a>
 
-As a proactive, enthusiastic, and resilient **Full Stack Software Developer** with expertise in React, Node.js, and MongoDB, I am passionate about building innovative and user-friendly applications. You can find me bouldering, reading up on the latest tech trends, or learning a new language when I'm not coding.
+As a proactive, enthusiastic, and resilient **Full Stack Software Developer** with expertise in React, Node.js, and MongoDB, I am passionate about building innovative and user-friendly applications. You can find me bouldering, reading up on the latest tech trends, or learning new things when I'm not coding.
 
 As a former professional [theatre actor](https://youtu.be/cwZIPJxuqoM) (you will find me with a bald head in 0:20), I honed my skills in logical thinking and creative problem-solving, which has been invaluable in my journey to becoming a software developer.
 
-As a professional theatre actor, I often felt limited in my ability to make a tangible impact on the world. However, through software development, I have found a way to channel my creativity and problem-solving skills towards creating valuable tools that can positively impact people's lives. It's amazing how with just my brain and a computer, I can turn an idea into a reality. I am excited to be a part of the revolution in technology, and I look forward to contributing my skills to develop solutions that address real-world problems.
+My experience as a professional theatre actor equipped me to become a strong communicator and best teammate. Through software development, I have found a way to channel my creativity and problem-solving skills towards creating valuable tools that can positively impact people's lives. It's incredible how I can turn an idea into a reality with just my brain and a computer. I believe good technologies bring people together.
 
-I am looking to join a company committed to positively impacting society, whether through sustainable business practices or social responsibility initiatives. By working with like-minded individuals, I can contribute to building a happy and friendly community inside and outside the workplace.
+I am excited to be a part of the revolution in technology, and I look forward to contributing my skills to develop solutions that address real-world problems.
 
 ## <a name="tech-stack">Tech stack 🤖</a>
 
@@ -36,11 +36,13 @@ I am looking to join a company committed to positively impacting society, whethe
 
 | Project (Repo)                                                                            | Description                                                                                                                                               | Link                                                                                       | Technologies                                                                                              |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [React from Scratch](https://github.com/SimpleLuke/React-from-Scratch)               | Built React from Scratch with JavaScript. Fully tested with Jest.  | [Code](https://github.com/SimpleLuke/React-from-Scratch)                                         | JavaScript, Jest |
 | [Clothing E-commerce Platform](https://github.com/SimpleLuke/e-commerce)               | Built an E-commerce website using TypeScript, React, Redux, Redux Saga and Tailwind. Integrated Stripe for payment and Firebase for data management and authentication. Implemented CircleCI for continuous integration and delivery (CI/CD)  | [Live Demo](https://subtle-bublanina-76bf5e.netlify.app/)                                         | TypeScript, React, React Router, Redux, Redux Saga, Stripe, CircleCI, Firebase authentication and Firestore |
 | [Japanese RPG Learning App](https://github.com/SimpleLuke/japanese-learning-RPG)          | Developed a Japanese learning website with RPG game elements as part of a team of five.                                                                   | [Code](https://github.com/SimpleLuke/japanese-learning-RPG)                                     | React, Redux toolkit, Node.js, Express.js, MongoDB, Tailwind, Cypress, Jest                               |
 | [Face Recognition App](https://github.com/SimpleLuke/Face-Recognition-App) | Created a face recognition app with Clarifai API using React, Node.js, Express.js, and PostgreSQL. Users can post an image link to identify faces on the picture.           | [Live Demo](https://merry-marigold-e75c7c.netlify.app/)                                   | React, Node.js, Express.js, REST API, PostgreSQL, Clarifai, Bcrypt                                                          |
 | [Code reviews](https://github.com/SimpleLuke/Band_Pass_Filter_code_review)                | Completed coding challenges while being reviewed by independent professional reviewers from CoGrammar.                                                    | [Recording](https://drive.google.com/file/d/1qHf1aneU9gcfY8vOMiXw-xdh7qOrrEjr/view?usp=sharing) | JavaScript, Jest                                                                                          |
-| Tecnical Blog                                                  | Shared my technical knowledge with a touch of humour.                                                                                       | [Medium](https://medium.com/@lukelai.dev)                                                                    | JavaScript                                                                      |
+| [Leet Code](https://leetcode.com/SimpleLuke/)                                                 | Solidified data structures and algorithms through coding problems.                                                    | [Code](https://github.com/SimpleLuke/LeetCode)       | JavaScript                                                                      |
+| [Tecnical Blog](https://medium.com/@lukelai.dev)                                                  | Shared my technical knowledge with a touch of humour.                                                                                       | [Medium](https://medium.com/@lukelai.dev)                                                                    | JavaScript                                                                      |
 
 For more, please see my [GitHub repo list](https://github.com/SimpleLuke?tab=repositories).
 
@@ -48,13 +50,13 @@ For more, please see my [GitHub repo list](https://github.com/SimpleLuke?tab=rep
 
 #### 💬 Effective Communication and Collaborative Teamwork
 
-- Years of experience in the customer service industry, working closely with diverse teams and clients at [Hong Kong Academy for Performing Arts](https://hkapa.edu) and [Cathay Pacific](https://www.cathaypacific.com/cx/en_US.html)
+- 5 years of experience in the customer service industry, working closely with diverse teams and clients at [Hong Kong Academy for Performing Arts](https://hkapa.edu) and [Cathay Pacific](https://www.cathaypacific.com/cx/en_US.html)
 - Ability to understand and fulfil customer requirements effectively and efficiently, utilising strong written and verbal communication skills
 - Proven track record of collaborating with team members to build three projects with agile workflows in Makers Academy
 
 #### 🧠 Creative Problem Solving and Analytical Thinking
 
-- Highly analytical thinker with a talent for innovative problem-solving, demonstrated through various projects and experiences. For example, in Makers' team collaboration, I always pick up tickets for resolving merge conflicts and fixing bugs.
+- Highly analytical thinker with a talent for innovative problem-solving, demonstrated through various projects and experiences. For example, in Makers' team collaboration, I always pick up challenging tickets for resolving merge conflicts and fixing bugs.
 - Ability to produce plans and suggestions for potential clients and improve processes through creative solutions following the Agile principles. In previous projects, I ensured the team understood the user stories and built the MVP based on client requirements.
 
 #### ⏰ Strong Time Management and Project Management Skills
@@ -66,8 +68,8 @@ For more, please see my [GitHub repo list](https://github.com/SimpleLuke?tab=rep
 #### 📖 Continuous Learning and Adaptability
 
 - Completed an intensive 3-month coding bootcamp at Makers, demonstrating a growth mindset and a willingness to learn and adapt
-- Continuously seeking to expand my skills and knowledge in the rapidly evolving software development industry, as I am learning TypeScript and Next.js.
 - Proven ability to adapt to new environments and work effectively with diverse teams and clients. Good reputations and feedback from daily pair-programming and regular code reviews in Makers Academy prove it.
+- Built projects with technologies that bootcamp did not cover, such as Docker, TypeScript, Firebase etc.
 
 #### 🙏 Emotional Intelligence and Empathy
 
@@ -106,27 +108,25 @@ Completed the following certificate programs:
 
 **Customer Service Assistant** - [The Hong Kong Academy For Performing Arts](https://www.hkapa.edu/), Sep. 2019 – Oct. 2020
 
-- Processed more than 50 booking applications a month from venue hirers, utilising strong attention to detail and organisational skills
-- Maintained excellent communication between clients and technical teams, demonstrating strong interpersonal and communication skills
-- Utilised problem-solving skills to effectively address customer issues and ensure customer satisfaction
+- Handled more than 50 booking applications a month from venue hirers.
+- Maintained excellent communications between clients and technical teams.
+- Utilised problem-solving skills to effectively address customer issues and ensure customer satisfaction.
 
 **Senior Front of House Usher** - [The Hong Kong Academy For Performing Arts](https://www.hkapa.edu/), Oct. 2015 – Jul. 2018
 
-- Served 100 to 1000 guests every night, from small concerts to large theatre shows, showcasing intense multitasking and time management skills
-- Led and organised a team of 6 juniors for a variety of performances, demonstrating leadership and collaboration skills
-- Utilised quick thinking and adaptability to address issues and ensure smooth operations during events effectively
+- Was Promoted to Senior Usher in 1 year.
+- Served 100 to 1000 guests every night, from small concerts to large theatre shows.
+- Led and organised a team of 6 juniors for a variety of performances.
 
 **Professional Theatre Actor** - Jun. 2015 - Sep. 2019
 
-- Participated in a variety of performances, demonstrating creativity and adaptability
-- Played leading roles in three different shows in Hong Kong Arts Festival, showcasing strong commitment and attention to detail
-- Taught classes for different ages, demonstrating strong interpersonal and communication skills
+- Participated in a variety of performances, such as [Hong Kong Repertory Theatre](https://www.hkrep.com/en/index.html) and [Hong Kong Arts Festival](https://www.hk.artsfestival.org/tc/)
 
 ## <a name="interests">Outside of Work</a>
 
 - 💻 **Getting involved in the tech scene**: Co-organiser of [Makers Alumni Hub](https://www.linkedin.com/company/94159673), volunteering to test new Kotlin curriculum for Makers Academy Bootcamp and attending events in a variety of tech groups and meetups, eg. [Codebar](https://codebar.io/)
 - 🧘 **Yoga:** Certified yoga teacher with a passion for promoting physical and mental well-being
 - 📚 **Reading:** Enjoys expanding knowledge on software development by reading books such as [Eloquent JavaScript](https://eloquentjavascript.net/), [The Road to React](https://www.amazon.co.uk/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX), [Refactoring UI](https://www.refactoringui.com/)
-- 🧗‍♂️ **Bouldering:** Active bouldering enthusiast who climbs at least twice a week to stay disciplined and commitment
+- 🧗‍♂️ **Bouldering:** Active bouldering enthusiast who climbs three times a week to stay disciplined and commitment
 - 🎲 **Board game:** Enjoys playing strategic board games, such as [Go](https://boardgamegeek.com/boardgame/188/go),[7 wonders duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel), [Pandemic Legacy](https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1)
 - ✏️ **Draw & Animation:** Created an animated video about [Why I Hate Coriander](https://youtu.be/dqF-x_a3Q2g)
