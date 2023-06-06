@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<h1 align="center"> Hi I'm <a href="https://lukelai.tech/">Luke Lai</a> (lukelai.dev@gmail.com)</h1>
+<h1 align="center"> Hi I'm <a href="https://lukelai.tech/">Luke Lai</a></h1>
 
 <div align="center">
 
@@ -14,13 +14,13 @@
 
 ## <a name="about_me">About me 🙋</a>
 
-As a proactive, enthusiastic, and resilient **Full Stack Software Developer** with expertise in React, Node.js, and MongoDB, I am passionate about building innovative and user-friendly applications. You can find me bouldering, reading up on the latest tech trends, or learning new things when I'm not coding.
+I am a recent graduate of Makers Coding Academy, with prior software development experience in front-end web development. I have a strong customer service background and am confident in contributing to and leading various teams. Additionally, I have experience managing the communication between clients and the relevant technical departments of a busy performance theatre.
 
-As a former professional [theatre actor](https://youtu.be/cwZIPJxuqoM) (you will find me with a bald head in 0:20), I honed my skills in logical thinking and creative problem-solving, which has been invaluable in my journey to becoming a software developer.
+As a former professional [theatre actor](https://youtu.be/cwZIPJxuqoM) (you will find me with a bald head in 0:20), I notice acting and software development are very similar. They combined arts and craftsmanship to bring people together. As a software developer and an actor, I turn innovative ideas into tangible software by putting my soul, youth and lower back pain.
 
-My experience as a professional theatre actor equipped me to become a strong communicator and best teammate. Through software development, I have found a way to channel my creativity and problem-solving skills towards creating valuable tools that can positively impact people's lives. It's incredible how I can turn an idea into a reality with just my brain and a computer. I believe good technologies bring people together.
+Through software development, I have found a way to channel my creativity and problem-solving skills towards creating valuable tools that can positively impact people's lives. I believe good technologies bring people together!
 
-I am excited to be a part of the revolution in technology, and I look forward to contributing my skills to develop solutions that address real-world problems.
+I am excited to be a part of the revolution in technology.
 
 ## <a name="tech-stack">Tech stack 🤖</a>
 
@@ -44,41 +44,43 @@ I am excited to be a part of the revolution in technology, and I look forward to
 | [Leet Code](https://leetcode.com/SimpleLuke/)                                                 | Solidified data structures and algorithms through coding problems.                                                    | [Code](https://github.com/SimpleLuke/LeetCode)       | JavaScript                                                                      |
 | [Tecnical Blog](https://medium.com/@lukelai.dev)                                                  | Shared my technical knowledge with a touch of humour.                                                                                       | [Medium](https://medium.com/@lukelai.dev)                                                                    | JavaScript                                                                      |
 
-For more, please see my [GitHub repo list](https://github.com/SimpleLuke?tab=repositories).
+For more, please see my [Projects Catalog](https://github.com/SimpleLuke/Projects-Catalog).
 
-## <a name="skills">My Unique Value Proposition 👏</a>
+## <a name="skills">My Unique Value Strengths 👏</a>
 
 #### 💬 Effective Communication and Collaborative Teamwork
 
-- 5 years of experience in the customer service industry, working closely with diverse teams and clients at [Hong Kong Academy for Performing Arts](https://hkapa.edu) and [Cathay Pacific](https://www.cathaypacific.com/cx/en_US.html)
-- Ability to understand and fulfil customer requirements effectively and efficiently, utilising strong written and verbal communication skills
-- Proven track record of collaborating with team members to build three projects with agile workflows in Makers Academy
+- Proven track record of collaborating with team members to build three projects with agile principles and Test-Driven Development in Makers Academy
+- 5 years of experience in the customer service industry, working closely with technical teams and clients at [Hong Kong Academy for Performing Arts](https://hkapa.edu) and [Cathay Pacific](https://www.cathaypacific.com/cx/en_US.html)
+- Actor experience enhanced the ability to communicate and understand the demands from different positions, such as directors, writers, PR, technicians, stage managers, and critics.
+
 
 #### 🧠 Creative Problem Solving and Analytical Thinking
 
-- Highly analytical thinker with a talent for innovative problem-solving, demonstrated through various projects and experiences. For example, in Makers' team collaboration, I always pick up challenging tickets for resolving merge conflicts and fixing bugs.
-- Ability to produce plans and suggestions for potential clients and improve processes through creative solutions following the Agile principles. In previous projects, I ensured the team understood the user stories and built the MVP based on client requirements.
+- Turned boring to-do list into a [interactive game](https://github.com/SimpleLuke/Task-Quest.io), where users beat a monster by completing their tasks.
+- Took reverse engineering approach to learn React by building [React from Scratch](https://github.com/SimpleLuke/React-from-Scratch).
 
 #### ⏰ Strong Time Management and Project Management Skills
 
-- Ability to effectively manage time and resources to meet tight deadlines, demonstrated through delivering three minimum viable products within two weeks time frames.
-- Proven project management skills from planning and organising tasks to tracking progress and delivering results using Trello, Excalidraw etc.
-- Ability to adapt to changing priorities, such as choosing the essential features for development sprints.
+- Delivered three full-stack projects within two weeks deadline each.
+- Proven project management skills from planning and organising tasks to tracking progress and delivering results using [Trello](https://trello.com/) and [Excalidraw](https://excalidraw.com/).
+- As a customer service assistant, rescheduled 50+ wedding booking cancellations in a week due to Hong Kong government Covid-19 policy.
 
 #### 📖 Continuous Learning and Adaptability
 
-- Completed an intensive 3-month coding bootcamp at Makers, demonstrating a growth mindset and a willingness to learn and adapt
-- Proven ability to adapt to new environments and work effectively with diverse teams and clients. Good reputations and feedback from daily pair-programming and regular code reviews in Makers Academy prove it.
-- Built projects with technologies that bootcamp did not cover, such as Docker, TypeScript, Firebase etc.
+- Completed an intensive 4-month coding bootcamp at Makers and built projects with Ruby and JavaScript with Test-Driven Development.
+- Positive feedbacks from daily pair-programming with different developers and regular code reviews from [CoGrammar](https://www.cogrammar.com/).
+- Wrote [technical blog](https://medium.com/@lukelai.dev) post to solidify and share software development knowledge.
+- Practiced [data structures and algorithms](https://github.com/SimpleLuke/LeetCode) daily through [Leet Code](https://leetcode.com/SimpleLuke/).
 
 #### 🙏 Emotional Intelligence and Empathy
 
-- Ability to understand and fulfil customer requirements effectively and efficiently. From years of experience in customer service, I dealt with different clients' problems in person, demonstrating empathy and emotional intelligence.
+- From years of experience in customer service, I dealt with clients' problems through putting myself in their shoes to validate their feelings.
 - Led yoga sessions for professional software developers in [Makers](https://makers.tech/).
 
 ## <a name="education">Education and Credentials 📖</a>
 
-#### [Makers Academy](https://makers.tech/) January to April 2023
+#### [Makers Academy](https://makers.tech/) December 2022 to April 2023
 
 - Completed an intensive 3-month full-time software development bootcamp focused on building strong foundational skills in:
   - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, and SOLID principles
@@ -106,6 +108,12 @@ Completed the following certificate programs:
 
 ## <a name="experience">Career Highlights 👨‍💼</a>
 
+**Career Break** , Nov. 2020 – Nov. 2022
+
+- Relocated back to the United Kingdom.
+- Caregave family members.
+- Learned web development fundamentals through online courses, books and building projects.
+
 **Customer Service Assistant** - [The Hong Kong Academy For Performing Arts](https://www.hkapa.edu/), Sep. 2019 – Oct. 2020
 
 - Handled more than 50 booking applications a month from venue hirers.
@@ -120,11 +128,12 @@ Completed the following certificate programs:
 
 **Professional Theatre Actor** - Jun. 2015 - Sep. 2019
 
+- Turned innovative ideas into productions by deliberate practice, rehearsals and collaborations.
 - Participated in a variety of performances, such as [Hong Kong Repertory Theatre](https://www.hkrep.com/en/index.html) and [Hong Kong Arts Festival](https://www.hk.artsfestival.org/tc/)
 
 ## <a name="interests">Outside of Work</a>
 
-- 💻 **Getting involved in the tech scene**: Co-organiser of [Makers Alumni Hub](https://www.linkedin.com/company/94159673), volunteering to test new Kotlin curriculum for Makers Academy Bootcamp and attending events in a variety of tech groups and meetups, eg. [Codebar](https://codebar.io/)
+- 💻 **Getting involved in the tech scene**: Co-organiser of [Makers Alumni Hub](https://www.linkedin.com/company/94159673), writing [technical blog](https://medium.com/@lukelai.dev), volunteering to test new Kotlin curriculum for Makers Academy Bootcamp and attending events in a variety of tech groups and meetups, eg. [Codebar](https://codebar.io/)
 - 🧘 **Yoga:** Certified yoga teacher with a passion for promoting physical and mental well-being
 - 📚 **Reading:** Enjoys expanding knowledge on software development by reading books such as [Eloquent JavaScript](https://eloquentjavascript.net/), [The Road to React](https://www.amazon.co.uk/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX), [Refactoring UI](https://www.refactoringui.com/)
 - 🧗‍♂️ **Bouldering:** Active bouldering enthusiast who climbs three times a week to stay disciplined and commitment
